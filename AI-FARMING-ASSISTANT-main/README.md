@@ -93,7 +93,7 @@ AI-FARMING-ASSISTANT/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/SANJAYDURAI77/AI-FARMING-ASSISTANT.git
+git clone https://github.com/GVineesh/AGRO_DOC.git
 ```
 
 ### Navigate to Project
@@ -154,14 +154,14 @@ npm run dev
 
 # 👨‍💻 Developer
 
-**Sanjay D**
+**VINEESH G**
 
 B.Tech – Artificial Intelligence & Machine Learning
 
-Hindusthan Institute of Technology
+Hindusthan College Of Engineering and technology
 
-- GitHub: https://github.com/SANJAYDURAI77
-- LinkedIn: https://www.linkedin.com/in/sanjay-d-702427395/
+- GitHub: https://github.com/GVineesh
+- LinkedIn: https://www.linkedin.com/in/vineesh-g-bb7310378
 
 ---
 
