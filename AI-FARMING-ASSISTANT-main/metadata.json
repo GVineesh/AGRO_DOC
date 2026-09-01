@@ -1,0 +1,7 @@
+{
+  "name": "AgroAssist – AI Farming Assistant",
+  "description": "A high-performance AI-powered agricultural dashboard offering crop recommendations, disease detection via image analysis, smart irrigation advice, and localized farming insights using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
